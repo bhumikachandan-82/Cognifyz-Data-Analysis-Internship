@@ -1,166 +1,165 @@
-# 📊 Cognifyz Technologies – Data Analysis Internship
+# Cognifyz Technologies – Data Analysis Internship
 
-**Intern:** Bhumika Chandan  
-**Role:** Data Analyst Intern  
-**Organization:** Cognifyz Technologies  
-**Project Domain:** Data Analysis
+**Data Analysis Internship Projects | Python | Exploratory Data Analysis | Data Visualization**
+
+## 👩‍💻 Intern Profile
+
+| Detail | Information |
+|---|---|
+| **Name** | Bhumika Chandan |
+| **Role** | Data Analyst Intern |
+| **Organization** | Cognifyz Technologies |
+| **Project Domain** | Data Analysis |
+| **Status** | Completed |
 
 ---
 
 ## 📌 Project Overview
 
-This repository showcases the work completed during my **Data Analysis Internship at Cognifyz Technologies**.
+This repository contains the projects completed as part of my **Data Analysis Internship at Cognifyz Technologies**.
 
-The project focuses on analyzing restaurant-related datasets, performing data cleaning and exploratory data analysis (EDA), identifying meaningful patterns, and presenting insights through data visualizations.
+The internship involved analyzing restaurant-related datasets to identify meaningful patterns, explore business insights, perform data cleaning, and create visualizations using Python.
 
-Using Python and its data analysis libraries, I worked on multiple tasks covering cuisine preferences, city-wise restaurant distribution, price ranges, online delivery, restaurant ratings, geographic patterns, and restaurant chains.
+The work is organized into two levels, covering a total of **eight tasks**.
 
 ## 🎯 Project Objectives
 
-- Explore and analyze restaurant datasets.
 - Perform data cleaning and preprocessing.
+- Conduct Exploratory Data Analysis (EDA).
+- Analyze restaurant ratings, cuisines, pricing, and locations.
 - Identify trends and patterns in restaurant data.
-- Calculate important analytical metrics.
-- Analyze customer preferences and restaurant performance.
-- Create meaningful data visualizations.
-- Present findings through charts and analytical outputs.
+- Create meaningful charts and visualizations.
+- Derive actionable insights from the dataset.
 
 ## 🛠️ Tools & Technologies
 
-| Technology | Application |
-|---|---|
-| Python | Data analysis and programming |
-| Pandas | Data manipulation and cleaning |
-| NumPy | Numerical operations |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| Jupyter Notebook | Interactive Python coding |
-| CSV | Dataset storage and analysis |
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- CSV Dataset
 
 ---
 
-# 📂 Internship Tasks & Projects
-
-# 🔹 LEVEL 1
+# 📊 Level 1 – Data Analysis Tasks
 
 ## Task 1: Top Cuisines Analysis
 
-**Objective:** Analyze restaurant cuisine data to identify popular cuisines and understand cuisine distribution.
+**Objective:** Identify the most popular cuisines and analyze their distribution across restaurants.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Top Cuisines Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Task_1_Top_Cuisines.ipynb.ipynb)
-- [📄 Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Task_2_City_Analysis.ipynb.csv)
-- [📊 Top Cuisines Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Top_cuisines.chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Task_1_Top_Cuisines.ipynb.ipynb)
+- [CSV File – Corrected Link](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Task_2_City_Analysis.csv)
+- [Top Cuisines Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201/Top_cuisines.chart.png)
 
 ## Task 2: City Analysis
 
-**Objective:** Analyze restaurant distribution across cities and identify city-wise trends and geographical patterns.
+**Objective:** Analyze restaurant distribution across cities and identify cities with the highest number of restaurants and average ratings.
 
-**Project Files:**
-- [📓 Jupyter Notebook – City Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Task_2_City_Analysis.ipynb.ipynb)
-- [📄 City Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Task2.CSV.csv)
-- [📄 Average Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/task2%20average.CSV.csv)
-- [📊 Restaurant City Clusters Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Restaurant_City_Clusters.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Task_2_City_Analysis.ipynb.ipynb)
+- [City Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Task2.CSV.csv)
+- [Average Ratings CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/task2%20average.CSV.csv)
+- [Restaurant City Clusters Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task2/Restaurant_City_Clusters.png)
 
 ## Task 3: Price Range Analysis
 
-**Objective:** Analyze restaurant distribution across different price ranges and understand customer affordability patterns.
+**Objective:** Analyze restaurant price ranges and understand the distribution of restaurants across different price categories.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Price Range Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task_3_Price_Range.ipynb.ipynb)
-- [📄 Price Range Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task%203.CSV.csv)
-- [📊 Price Range Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task3%20.Chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task_3_Price_Range.ipynb.ipynb)
+- [Price Range CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task%203.CSV.csv)
+- [Price Range Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%20%201%20%20Task3/Task3%20.Chart.png)
 
 ## Task 4: Online Delivery Analysis
 
-**Objective:** Analyze online delivery availability and explore its relationship with restaurant ratings.
+**Objective:** Analyze online delivery availability and compare restaurant ratings based on delivery options.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Online Delivery Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task_4_Online_Delivery.ipynb.ipynb)
-- [📄 Rating Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4%20rating.CSV.csv)
-- [📄 Online Delivery Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4.Csv.csv)
-- [📊 Online Delivery Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4%20.Chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task_4_Online_Delivery.ipynb.ipynb)
+- [Online Delivery CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4.Csv.csv)
+- [Ratings CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4%20rating.CSV.csv)
+- [Online Delivery Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%201%20Task4/Task4%20.Chart.png)
 
 ---
 
-# 🔹 LEVEL 2
+# 📈 Level 2 – Advanced Data Analysis Tasks
 
 ## Task 1: Restaurant Ratings Analysis
 
-**Objective:** Analyze restaurant ratings to understand rating distributions and customer satisfaction trends.
+**Objective:** Explore restaurant ratings, rating distributions, and voting patterns to understand customer feedback.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Restaurant Ratings Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Task_1_Restaurant_Ratings.ipynb.ipynb)
-- [📄 Restaurant Ratings CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Level2%20Task1.CSV.csv)
-- [📊 Restaurant Ratings Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Level2.task1.chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Task_1_Restaurant_Ratings.ipynb.ipynb)
+- [Restaurant Ratings CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Level2%20Task1.CSV.csv)
+- [Restaurant Ratings Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level%202%20Task%201/Level2.task1.chart.png)
 
 ## Task 2: Cuisine Combination Analysis
 
-**Objective:** Analyze combinations of cuisines offered by restaurants and identify popular cuisine combinations and their average ratings.
+**Objective:** Analyze cuisine combinations and identify relationships between cuisine types and restaurant ratings.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Cuisine Combination Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/.%20Task_2_Cuisine_Combination.ipynb.ipynb)
-- [📄 Average Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2.task2.average.csv.csv)
-- [📄 Task 2 Dataset CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2task2.csv.csv)
-- [📊 Cuisine Combination Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2.task2.chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/.%20Task_2_Cuisine_Combination.ipynb.ipynb)
+- [Cuisine Average CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2.task2.average.csv.csv)
+- [Cuisine Analysis CSV](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2task2.csv.csv)
+- [Cuisine Combination Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task%202/Level2.task2.chart.png)
 
 ## Task 3: Geographic Analysis
 
-**Objective:** Analyze the geographical distribution of restaurants and identify location-based patterns and trends.
+**Objective:** Explore the geographical distribution of restaurants and identify location-based patterns.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Geographic Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/Task_3_Geographic_Analysis.ipynb.ipynb)
-- [📄 Geographic Analysis CSV 1](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/Level2.task3.csv1.csv)
-- [📄 Geographic Analysis CSV 2](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/level2.task3.csv2.csv)
-- [📊 Geographic Analysis Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/level2.task3.chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/Task_3_Geographic_Analysis.ipynb.ipynb)
+- [Geographic Dataset CSV 1](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/Level2.task3.csv1.csv)
+- [Geographic Dataset CSV 2](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/level2.task3.csv2.csv)
+- [Geographic Analysis Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task3/level2.task3.chart.png)
 
 ## Task 4: Restaurant Chains Analysis
 
-**Objective:** Analyze restaurant chains to identify popular chains, compare their ratings, and understand customer preferences.
+**Objective:** Analyze restaurant chains, compare their performance, and explore ratings and popularity across chains.
 
-**Project Files:**
-- [📓 Jupyter Notebook – Restaurant Chains Analysis](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/Task_4_Restaurant_Chains.ipynb.ipynb)
-- [📄 Restaurant Chains CSV 1](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2task4.csv1.csv)
-- [📄 Restaurant Chains CSV 2](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2.task4.csv2.csv)
-- [📄 Restaurant Chains CSV 3](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2task4.csv3.csv)
-- [📊 Restaurant Chains Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2.task4.chart.png)
+**Files:**
+- [Python Notebook](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/Task_4_Restaurant_Chains.ipynb.ipynb)
+- [Restaurant Chains CSV 1](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2task4.csv1.csv)
+- [Restaurant Chains CSV 2](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2.task4.csv2.csv)
+- [Restaurant Chains CSV 3](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2task4.csv3.csv)
+- [Restaurant Chains Chart](https://github.com/bhumikachandan-82/Cognifyz-Data-Analysis-Internship/blob/main/Bhumika_Chandan_Cognifyz_Internship/Level2%20Task4/level2.task4.chart.png)
 
 ---
 
-## 📚 Key Skills & Learning Outcomes
+## 📚 Skills & Learning Outcomes
 
-Through this internship, I gained practical experience in:
+Throughout this internship, I gained practical experience in:
 
 - Data cleaning and preprocessing using Pandas.
 - Exploratory Data Analysis (EDA).
-- Data manipulation using Pandas and NumPy.
-- Statistical analysis and average calculations.
-- Identifying restaurant and customer preference trends.
-- Analyzing geographical and business patterns.
-- Creating visualizations using Matplotlib and Seaborn.
-- Working with Jupyter Notebooks and CSV datasets.
-- Presenting analytical findings through charts.
+- Data manipulation and aggregation.
+- Working with CSV datasets.
+- Data visualization using Matplotlib and Seaborn.
+- Identifying trends, patterns, and insights.
+- Presenting analytical findings through visualizations.
+
+## 🙏 Acknowledgment
+
+I would like to thank **Cognifyz Technologies** for providing me with this opportunity to work on practical data analysis tasks and strengthen my analytical and technical skills.
+
+This internship helped me gain hands-on experience and improve my understanding of real-world data analysis workflows.
 
 ## 👩‍💻 About Me
 
-**Bhumika Chandan**  
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
+I am a Computer Applications graduate and an aspiring **Data Analyst**, interested in transforming raw data into meaningful insights.
 
-I am a Computer Applications graduate interested in data analytics, data visualization, and transforming raw data into meaningful insights.
+I am continuously learning and improving my skills in Python, SQL, Excel, Power BI, and data visualization.
 
-I enjoy learning new technologies and applying my knowledge through practical projects.
+**Connect with me:**
 
 - **GitHub:** [bhumikachandan-82](https://github.com/bhumikachandan-82)
 - **LinkedIn:** [Bhumika Chandan](https://www.linkedin.com/in/bhumika-chandan/)
 
 ---
 
-## 🙏 Acknowledgment
+⭐ Thank you for visiting my repository!
 
-I would like to thank **Cognifyz Technologies** for providing this internship opportunity and allowing me to gain practical experience in data analysis.
-
----
-
-⭐ **Thank you for visiting my repository!**
-
-Feel free to explore the notebooks, datasets, and visualizations.
+ 
